@@ -42,7 +42,7 @@
    rightImageStyle: 右侧图片样式
 
    onLeftPress:点击左侧回调
-   
+
    onRightPress: 点击右侧回调
 
  
